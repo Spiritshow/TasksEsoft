@@ -1,0 +1,47 @@
+.sky{
+    background-color: rgba(83, 204, 255, 0.833);
+}
+
+.flue{
+
+    height: 70px;
+    width: 75px;
+    margin: left;
+    position: absolute;
+    left: 40%;
+    top: 40px;
+    border-left: 50px solid rgb(152, 85, 23);
+    border-bottom: 50px solid transparent;
+}
+.roof{
+    width: 0;
+    height: 0;
+    border-left: 300px solid transparent;
+    border-right: 300px solid transparent;
+    border-bottom: 300px solid brown;
+    margin: auto;
+}
+
+.walls{
+    background-color: rgb(234, 221, 104);
+    height: 300px;
+    width: 500px;
+    align-self:  flex-end;
+    margin: auto;
+}
+
+.window{
+    background-color: rgb(79, 95, 247);
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    margin: auto;
+    position: relative;
+    top: 15%;
+}
+
+.grass{
+    background-color: green;
+    height: 150px;
+    width: auto;
+}
