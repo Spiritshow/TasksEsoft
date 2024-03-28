@@ -6,10 +6,9 @@
 
     height: 70px;
     width: 75px;
-    margin: left;
-    position: absolute;
+    position: relative;
     left: 40%;
-    top: 40px;
+    top: 150px;
     border-left: 50px solid rgb(152, 85, 23);
     border-bottom: 50px solid transparent;
 }
