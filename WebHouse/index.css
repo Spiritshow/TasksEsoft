@@ -7,8 +7,8 @@
     height: 70px;
     width: 75px;
     position: relative;
-    left: 40%;
-    top: 150px;
+    right: 150px;;
+    top: 35px;
     border-left: 50px solid rgb(152, 85, 23);
     border-bottom: 50px solid transparent;
 }
